@@ -1,4 +1,6 @@
 # Eventos Pendientes Pokemon Reborn
+[Link do Repositorio](https://github.com/IvanEspasandin/Eventos_Pendientes_Pokemon_Reborn)
+
 ## Peridot Ward
 
 ## Lower Peridot Ward
