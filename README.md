@@ -43,13 +43,11 @@
 ## Malchous Forest
 
 ## Beryl Ward
-- [Noctowl](https://pokemon-reborn.fandom.com/wiki/Beryl_Ward#Pok%C3%A9mon)
 - [Helioptile (Clima Soleado)](https://pokemon-reborn.fandom.com/wiki/Beryl_Ward#Helioptile_Event)
 - [Pumpkaboo](https://pokemon-reborn.fandom.com/wiki/Beryl_Ward#Pumpkaboo_Event)
 - [Zorua (Clima Despejado de Noite)](https://pokemon-reborn.fandom.com/wiki/Beryl_Ward#Zorua_Special_Encounter)
 
 ## Rhodochrine Jungle
-- [Dedenne](https://pokemon-reborn.fandom.com/wiki/Rhodochrine_Jungle#Pok%C3%A9mon)
 - [Tropius (Clima Soleado)](https://pokemon-reborn.fandom.com/wiki/Rhodochrine_Jungle#Tropius_Special_Encounter)
 - [Totem Pole](https://pokemon-reborn.fandom.com/wiki/Rhodochrine_Jungle#Totem_Pole_Pokemon_Event)
 - [Nuzleaf](https://pokemon-reborn.fandom.com/wiki/Rhodochrine_Jungle#Nuzleaf_Special_Encounter)
