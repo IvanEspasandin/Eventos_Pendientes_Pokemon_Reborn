@@ -3,6 +3,8 @@
 
 ## Peridot Ward
 
+## Opal Ward
+
 ## Lower Peridot Ward
 - [Blitzle (Clima Tormentoso)](https://pokemon-reborn.fandom.com/wiki/Lower_Peridot_Ward#Blitzle_Event)
 - [Hoopa](https://pokemon-reborn.fandom.com/wiki/Lower_Peridot_Ward#Hoopa_Quest)
@@ -14,6 +16,14 @@
 - [Bounsweet](https://pokemon-reborn.fandom.com/wiki/Obsidia_Ward#Bounsweet_Event)
 - [Ralts](https://pokemon-reborn.fandom.com/wiki/Obsidia_Ward#Ralts_Special_Encounter)
 - [Treecko](https://pokemon-reborn.fandom.com/wiki/Obsidia_Ward#Something_unseeable_is_in_the_way)
+
+## North Obsidia Ward
+- [Link Stone Vendor](https://pokemon-reborn.fandom.com/wiki/North_Obsidia_Ward#Link_Stone_Vendor)
+### The Grand Stairway
+- [Unown](https://pokemon-reborn.fandom.com/wiki/Grand_Stairway#Pok%C3%A9mon)
+- [Lunatone / Solrock](https://pokemon-reborn.fandom.com/wiki/Grand_Stairway#Solrock_&_Lunatone_Special_Encounter)
+- [Mining Kit Event](https://pokemon-reborn.fandom.com/wiki/Grand_Stairway#Mining_Kit_Event)
+- [Evolution Stone Event](https://pokemon-reborn.fandom.com/wiki/Grand_Stairway#Evolution_Stone_Event)
 
 ## South Obsidia Ward
 - [Glameow](https://pokemon-reborn.fandom.com/wiki/South_Obsidia_Ward#Glameow_Sidequest)
@@ -66,3 +76,10 @@
 ## Abandoned Power Plant
 - [Drifloon (Clima Ventoso)](https://pokemon-reborn.fandom.com/wiki/Abandoned_Power_Plant#Drifloon_Event)
 - [Drifloon Sticker](https://pokemon-reborn.fandom.com/wiki/Abandoned_Power_Plant#Drifloon_Sticker_Sidequest)
+
+## Lapis Ward
+- [Chespin](https://pokemon-reborn.fandom.com/wiki/Lapis_Ward#Chespin_Special_Encounter)
+- [House Raid (Ponyta / Buizel)](https://pokemon-reborn.fandom.com/wiki/Lapis_Ward#House_Raid_Sidequest)
+- [Gang Raid](https://pokemon-reborn.fandom.com/wiki/Lapis_Ward#Gang_Raid_Sidequest)
+- [Craudburry Intimidation](https://pokemon-reborn.fandom.com/wiki/Lapis_Ward#Craudburry_Intimidation_Sidequest)
+- [Bicycle Sidequest](https://pokemon-reborn.fandom.com/wiki/Lapis_Ward#Bicycle_Sidequest)
