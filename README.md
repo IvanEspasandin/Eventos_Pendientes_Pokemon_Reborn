@@ -42,7 +42,6 @@
 - [Mega-Z Ring Sidequest](https://pokemon-reborn.fandom.com/wiki/Onyx_Ward#Mega-Z_Ring_Sidequest)
 
 ## Jasper Ward
-- [Drifloon Sticker](https://pokemon-reborn.fandom.com/wiki/Jasper_Ward#Drifloon_Sticker_Sidequest)
 - [Eevee Sticker](https://pokemon-reborn.fandom.com/wiki/Jasper_Ward#Eevee_Sticker_Sidequest)
 - [Mareep](https://pokemon-reborn.fandom.com/wiki/Jasper_Ward#Mareep_Event)
 - [Growlithe](https://pokemon-reborn.fandom.com/wiki/Jasper_Ward#Police_Officers_Sidequest_&_Growlithe_Special_Encounter)
@@ -74,8 +73,6 @@
 - [Zygarde Quest](https://pokemon-reborn.fandom.com/wiki/The_Underroot#Zygarde_Quest)
 
 ## Abandoned Power Plant
-- [Drifloon (Clima Ventoso)](https://pokemon-reborn.fandom.com/wiki/Abandoned_Power_Plant#Drifloon_Event)
-- [Drifloon Sticker](https://pokemon-reborn.fandom.com/wiki/Abandoned_Power_Plant#Drifloon_Sticker_Sidequest)
 
 ## Lapis Ward
 - [Chespin](https://pokemon-reborn.fandom.com/wiki/Lapis_Ward#Chespin_Special_Encounter)
