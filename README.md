@@ -86,13 +86,10 @@
 - [Giratina](https://pokemon-reborn.fandom.com/wiki/Citrine_Mountain#Giratina_Quest)
 
 ### 1F
-- [Sandshrew Alola](https://pokemon-reborn.fandom.com/wiki/Citrine_Mountain#1F_2)
-- [Sandslash Alola](https://pokemon-reborn.fandom.com/wiki/Citrine_Mountain#1F_2)
 - [Swinub](https://pokemon-reborn.fandom.com/wiki/Citrine_Mountain#1F_2)
 - [Piloswine](https://pokemon-reborn.fandom.com/wiki/Citrine_Mountain#1F_2)
 - [Swoobat](https://pokemon-reborn.fandom.com/wiki/Citrine_Mountain#1F_2)
 - [Cubchoo](https://pokemon-reborn.fandom.com/wiki/Citrine_Mountain#1F_2)
-- [Beartic](https://pokemon-reborn.fandom.com/wiki/Citrine_Mountain#1F_2)
 - [Skuntank](https://pokemon-reborn.fandom.com/wiki/Citrine_Mountain#Skuntank_Special_Encounter)
 
 ### 2F
