@@ -94,7 +94,6 @@
 
 ### 2F
 - [Smoochum](https://pokemon-reborn.fandom.com/wiki/Citrine_Mountain#Smoochum_Special_Encounter)
-- [Croagunk](https://pokemon-reborn.fandom.com/wiki/Citrine_Mountain#Croagunk_Special_Encounter)
 
 ### 3F
 - [Mareanie](https://pokemon-reborn.fandom.com/wiki/Citrine_Mountain#Mareanie_Special_Encounter)
