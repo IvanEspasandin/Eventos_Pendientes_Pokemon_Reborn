@@ -82,7 +82,6 @@
 - [Bicycle Sidequest](https://pokemon-reborn.fandom.com/wiki/Lapis_Ward#Bicycle_Sidequest)
 
 ## Citrine Mountain
-- [Amaura](https://pokemon-reborn.fandom.com/wiki/Citrine_Mountain#Amaura_Event)
 - [Deoxys](https://pokemon-reborn.fandom.com/wiki/Citrine_Mountain#Deoxys_Quest)
 - [Giratina](https://pokemon-reborn.fandom.com/wiki/Citrine_Mountain#Giratina_Quest)
 
@@ -91,14 +90,12 @@
 - [Sandslash Alola](https://pokemon-reborn.fandom.com/wiki/Citrine_Mountain#1F_2)
 - [Swinub](https://pokemon-reborn.fandom.com/wiki/Citrine_Mountain#1F_2)
 - [Piloswine](https://pokemon-reborn.fandom.com/wiki/Citrine_Mountain#1F_2)
-- [Donphan](https://pokemon-reborn.fandom.com/wiki/Citrine_Mountain#1F_2)
 - [Swoobat](https://pokemon-reborn.fandom.com/wiki/Citrine_Mountain#1F_2)
 - [Cubchoo](https://pokemon-reborn.fandom.com/wiki/Citrine_Mountain#1F_2)
 - [Beartic](https://pokemon-reborn.fandom.com/wiki/Citrine_Mountain#1F_2)
 - [Skuntank](https://pokemon-reborn.fandom.com/wiki/Citrine_Mountain#Skuntank_Special_Encounter)
 
 ### 2F
-- [Bergmite](https://pokemon-reborn.fandom.com/wiki/Citrine_Mountain#2F_2)
 - [Smoochum](https://pokemon-reborn.fandom.com/wiki/Citrine_Mountain#Smoochum_Special_Encounter)
 - [Croagunk](https://pokemon-reborn.fandom.com/wiki/Citrine_Mountain#Croagunk_Special_Encounter)
 
