@@ -56,7 +56,6 @@
 - [Zorua (Clima Despejado de Noite)](https://pokemon-reborn.fandom.com/wiki/Beryl_Ward#Zorua_Special_Encounter)
 
 ## Rhodochrine Jungle
-- [Totem Pole](https://pokemon-reborn.fandom.com/wiki/Rhodochrine_Jungle#Totem_Pole_Pokemon_Event)
 - [Nuzleaf](https://pokemon-reborn.fandom.com/wiki/Rhodochrine_Jungle#Nuzleaf_Special_Encounter)
 
 ## The Underroot
