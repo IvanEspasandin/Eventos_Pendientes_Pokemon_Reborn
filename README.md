@@ -53,14 +53,12 @@
 - [Zorua (Clima Despejado de Noite)](https://pokemon-reborn.fandom.com/wiki/Beryl_Ward#Zorua_Special_Encounter)
 
 ## Rhodochrine Jungle
-- [Nuzleaf](https://pokemon-reborn.fandom.com/wiki/Rhodochrine_Jungle#Nuzleaf_Special_Encounter)
 
 ## The Underroot
 - [Shuppet](https://pokemon-reborn.fandom.com/wiki/The_Underroot#Pok%C3%A9mon)
 - [Phantump](https://pokemon-reborn.fandom.com/wiki/The_Underroot#Pok%C3%A9mon)
 - [Barboach](https://pokemon-reborn.fandom.com/wiki/The_Underroot#Pok%C3%A9mon)
 - [Chinchou](https://pokemon-reborn.fandom.com/wiki/The_Underroot#Pok%C3%A9mon)
-- [Misdreavus](https://pokemon-reborn.fandom.com/wiki/The_Underroot#Aevian_Misdreavus_Special_Encounter)
 - [Skrelp](https://pokemon-reborn.fandom.com/wiki/The_Underroot#Skrelp_Special_Encounter)
 - [Axew](https://pokemon-reborn.fandom.com/wiki/The_Underroot#Axew_Special_Encounter)
 - [Treecko](https://pokemon-reborn.fandom.com/wiki/The_Underroot#Treecko_Special_Encounter)
