@@ -6,7 +6,6 @@
 ## Opal Ward
 
 ## Lower Peridot Ward
-- [Blitzle (Clima Tormentoso)](https://pokemon-reborn.fandom.com/wiki/Lower_Peridot_Ward#Blitzle_Event)
 - [Hoopa](https://pokemon-reborn.fandom.com/wiki/Lower_Peridot_Ward#Hoopa_Quest)
 - [Job Applications](https://pokemon-reborn.fandom.com/wiki/Lower_Peridot_Ward#Job_Applications_Sidequest)
 - [Mulch Sidequest](https://pokemon-reborn.fandom.com/wiki/Lower_Peridot_Ward#Mulch_Sidequest)
@@ -38,12 +37,10 @@
 
 ## Onyx Ward
 - [Move Learner Sidequest](https://pokemon-reborn.fandom.com/wiki/Onyx_Ward#Move_Relearner_Sidequest)
-- [Pichu (Clima Despejado)](https://pokemon-reborn.fandom.com/wiki/Onyx_Ward#Pichu_Event)
 - [Mega-Z Ring Sidequest](https://pokemon-reborn.fandom.com/wiki/Onyx_Ward#Mega-Z_Ring_Sidequest)
 
 ## Jasper Ward
 - [Eevee Sticker](https://pokemon-reborn.fandom.com/wiki/Jasper_Ward#Eevee_Sticker_Sidequest)
-- [Mareep](https://pokemon-reborn.fandom.com/wiki/Jasper_Ward#Mareep_Event)
 - [Growlithe](https://pokemon-reborn.fandom.com/wiki/Jasper_Ward#Police_Officers_Sidequest_&_Growlithe_Special_Encounter)
 - [Jasper Egg](https://pokemon-reborn.fandom.com/wiki/Jasper_Ward#Jasper_Mystery_Egg_Event)
 - [Diamond Ring & Klefki](https://pokemon-reborn.fandom.com/wiki/Jasper_Ward#Diamond_Ring_Sidequest_&_Klefki_Sidequest)
