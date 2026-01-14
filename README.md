@@ -12,7 +12,6 @@
 
 ## Obsidia Ward
 - [Sticker Aron](https://pokemon-reborn.fandom.com/wiki/Obsidia_Ward#Aron_Sticker_Sidequest)
-- [Bounsweet](https://pokemon-reborn.fandom.com/wiki/Obsidia_Ward#Bounsweet_Event)
 - [Ralts](https://pokemon-reborn.fandom.com/wiki/Obsidia_Ward#Ralts_Special_Encounter)
 - [Treecko](https://pokemon-reborn.fandom.com/wiki/Obsidia_Ward#Something_unseeable_is_in_the_way)
 
@@ -25,7 +24,6 @@
 - [Evolution Stone Event](https://pokemon-reborn.fandom.com/wiki/Grand_Stairway#Evolution_Stone_Event)
 
 ## South Obsidia Ward
-- [Glameow](https://pokemon-reborn.fandom.com/wiki/South_Obsidia_Ward#Glameow_Sidequest)
 - [Sandy's Sidequest](https://pokemon-reborn.fandom.com/wiki/South_Obsidia_Ward#Sandy's_Sidequest)
 
 ## Coral Ward
