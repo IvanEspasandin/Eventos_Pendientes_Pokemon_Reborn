@@ -17,9 +17,8 @@
 
 ## North Obsidia Ward
 - [Link Stone Vendor](https://pokemon-reborn.fandom.com/wiki/North_Obsidia_Ward#Link_Stone_Vendor)
+
 ### The Grand Stairway
-- [Mining Kit Event](https://pokemon-reborn.fandom.com/wiki/Grand_Stairway#Mining_Kit_Event)
-- [Evolution Stone Event](https://pokemon-reborn.fandom.com/wiki/Grand_Stairway#Evolution_Stone_Event)
 
 ## South Obsidia Ward
 - [Sandy's Sidequest](https://pokemon-reborn.fandom.com/wiki/South_Obsidia_Ward#Sandy's_Sidequest)
