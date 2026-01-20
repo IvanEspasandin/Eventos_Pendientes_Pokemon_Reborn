@@ -11,7 +11,6 @@
 - [Mulch Sidequest](https://pokemon-reborn.fandom.com/wiki/Lower_Peridot_Ward#Mulch_Sidequest)
 
 ## Obsidia Ward
-- [Sticker Aron](https://pokemon-reborn.fandom.com/wiki/Obsidia_Ward#Aron_Sticker_Sidequest)
 - [Ralts](https://pokemon-reborn.fandom.com/wiki/Obsidia_Ward#Ralts_Special_Encounter)
 - [Treecko](https://pokemon-reborn.fandom.com/wiki/Obsidia_Ward#Something_unseeable_is_in_the_way)
 
