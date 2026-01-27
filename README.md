@@ -35,8 +35,6 @@
 
 ## Jasper Ward
 - [Eevee Sticker](https://pokemon-reborn.fandom.com/wiki/Jasper_Ward#Eevee_Sticker_Sidequest)
-- [Growlithe](https://pokemon-reborn.fandom.com/wiki/Jasper_Ward#Police_Officers_Sidequest_&_Growlithe_Special_Encounter)
-- [Jasper Egg](https://pokemon-reborn.fandom.com/wiki/Jasper_Ward#Jasper_Mystery_Egg_Event)
 - [Diamond Ring & Klefki](https://pokemon-reborn.fandom.com/wiki/Jasper_Ward#Diamond_Ring_Sidequest_&_Klefki_Sidequest)
 - [Another Times Reading](https://pokemon-reborn.fandom.com/wiki/Jasper_Ward#Readings_about_Another_Time)
 
@@ -53,7 +51,6 @@
 - [Phantump](https://pokemon-reborn.fandom.com/wiki/The_Underroot#Pok%C3%A9mon)
 - [Barboach](https://pokemon-reborn.fandom.com/wiki/The_Underroot#Pok%C3%A9mon)
 - [Chinchou](https://pokemon-reborn.fandom.com/wiki/The_Underroot#Pok%C3%A9mon)
-- [Skrelp](https://pokemon-reborn.fandom.com/wiki/The_Underroot#Skrelp_Special_Encounter)
 - [Axew](https://pokemon-reborn.fandom.com/wiki/The_Underroot#Axew_Special_Encounter)
 - [Treecko](https://pokemon-reborn.fandom.com/wiki/The_Underroot#Treecko_Special_Encounter)
 - [Zygarde Quest](https://pokemon-reborn.fandom.com/wiki/The_Underroot#Zygarde_Quest)
